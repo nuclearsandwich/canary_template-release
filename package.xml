@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>canary_template</name>
+  <version>0.6.4</version>
+  <description>Canary package to source / template overrides.</description>
+  <maintainer email="steven@openrobotics.org">Steven! Ragnarök</maintainer>
+  <license>Apache License 2.0</license>
+
+
+  <depend condition="$ROS_VERSION == 2">ament_cmake</depend>
+  <depend condition="$ROS_VERSION == 1">catkin</depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
+
