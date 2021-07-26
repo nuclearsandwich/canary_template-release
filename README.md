@@ -1,3 +1,26 @@
+## canary_template (addon) - 0.6.4-3
+
+The packages in the `canary_template` repository were released into the `addon` distro by running `/home/steven/osrf/custom_addon_rosdistro/.direnv/python-3.9.6/bin/bloom-release -r addon canary_template --no-pull-request` on `Mon, 26 Jul 2021 19:32:05 -0000`
+
+The `canary_template` package was released.
+
+Version of package(s) in repository `canary_template`:
+
+- upstream repository: https://github.com/nuclearsandwich/canary-template.git
+- release repository: https://github.com/nuclearsandwich/canary_template-release.git
+- rosdistro version: `0.6.4-2`
+- old version: `0.6.4-2`
+- new version: `0.6.4-3`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3.dev0`
+- vcstools version: `0.1.42`
+
+
 ## canary_template (addon) - 0.6.4-2
 
 The packages in the `canary_template` repository were released into the `addon` distro by running `/home/steven/osrf/custom_addon_rosdistro/.direnv/python-3.9.6/bin/bloom-release --no-pull-request -r addon canary_template` on `Wed, 21 Jul 2021 23:46:06 -0000`
